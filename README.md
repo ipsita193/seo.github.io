@@ -14,4 +14,15 @@ then go to google search console search.google.com and left site particular webs
 Google Keywords:-keywords determine wheather you will attract your target audience.Goal is to attract your most qualified customers with keywords.
 1)Brainform possible keywords:-anything related to your industry ,products & services.ex:-bike shop,bike rack,bike seats.
 location-based keywords:-search,city & area.checkout competitors keywords.
-2)expand your list:-thousand of companies ,try to rank for
+2)expand your list:-thousand of companies ,try to rank for short,generic keywords example :bike rule,find longer more specific keyword earlier to rank in top 10 results.here 
+ubersuggest (bike rack)there are lot of users search past.
+create new pages around the valuable keywords.example -kwywordtool.io & keywords everywhere.
+3)Focous on user experience:how user feel when they visit my website(1)value(2)usability(3)functionality(4)Adaptability(5)Navigation(6)design.
+4)simple navigation:-our navigation is an essential component of our website,when user enter our site they want to find relevant information quickly,if my navigation is 
+disorganized it could lead bad user experience path should be correct.
+5)tag images:-when we are setting up our pages we want to ensure that our pictures are always readable.
+6)link internally:-our audience lead them to learn something new.uptodate experience with international web protocols,standards & technologies.webstandards and the
+documentation to support theme,provide huge insight into the why and the what of the world wide web.
+ they are a fantastic resource for any web developer and help build staff for web i.e functional accessible & cross-compatible.we can think of the world wide web as information
+ ecosystem people create content that is fed into the web.This content passed through the browser to allow people to access that information.
+
